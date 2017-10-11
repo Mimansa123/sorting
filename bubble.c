@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<stdio.h>
 main()
 {
 int array[10000],n,c,d,swap; 
